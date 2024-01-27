@@ -96,7 +96,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 - [LinkedIn](https://www.linkedin.com/in/ignatius-timothy-manullang-8b714a171/)
 - [Personal Website/Blog](https://personal-website-itm.vercel.app)
-- [Email](ignatiustimothymanullang@gmail.com)
+- [Email](mailto:ignatiustimothymanullang@gmail.com)
 
 ---
 
