@@ -21,19 +21,57 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - **Programming Languages:** Javascript, Typescript, Ruby on Rails, Python, Java
 - **Frameworks & Libraries:** ReactJS, NextJS, GatsbyJs, Three.js, Node
 - **Tools & Technologies**
-Version Control: Git
-Package Managers: npm, yarn
-Build Tools: Webpack, Babel
-Testing: Jest, Mocha, Jasmine
-Linting: ESLint, TSLint, RuboCop, Prettier
-Task Runners: Gulp
-IDE/Code Editor: Visual Studio Code
-Containerization: Docker
-Continuous Integration/Continuous Deployment (CI/CD): Jenkins, Travis CI, GitHub Actions
-Database: MongoDB, PostgreSQL, MySQL
-API Development: Express (Node.js), Flask (Python)
-Cloud Platforms: Google Cloud Platform (GCP)
-Deployment: Netlify, Vercel
+### Version Control
+- Git
+
+### Package Managers
+- npm
+- yarn
+
+### Build Tools
+- Webpack
+- Babel
+
+### Testing
+- Jest
+- Mocha
+- Jasmine
+
+### Linting
+- ESLint
+- TSLint
+- RuboCop
+- Prettier
+
+### Task Runners
+- Gulp
+
+### IDE/Code Editor
+- Visual Studio Code
+
+### Containerization
+- Docker
+
+### Continuous Integration/Continuous Deployment (CI/CD)
+- Jenkins
+- Travis CI
+- GitHub Actions
+
+### Database
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### API Development
+- Express (Node.js)
+- Flask (Python)
+
+### Cloud Platforms
+- Google Cloud Platform (GCP)
+
+### Deployment
+- Netlify
+- Vercel
 
 ## 🌱 Currently Exploring
 
