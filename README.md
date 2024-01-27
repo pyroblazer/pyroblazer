@@ -44,10 +44,6 @@ Deployment: Netlify, Vercel
 - [LinkedIn](https://www.linkedin.com/in/ignatius-timothy-manullang-8b714a171/)
 - [Personal Website/Blog](https://personal-website-itm.vercel.app)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyroblazer&show_icons=true&theme=radical)
-
 ---
 
 Feel free to explore my projects in my [Repositories](https://github.com/pyroblazer?tab=repositories).
