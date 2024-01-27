@@ -49,8 +49,9 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ### Testing
 - Jest
-- Mocha
-- Jasmine
+- Cypress
+- Rspec
+- Selenium
 
 ### Linting
 - ESLint
