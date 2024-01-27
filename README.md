@@ -18,9 +18,24 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Javascript, Typescript, Ruby on Rails, Python, Java
-- **Frameworks & Libraries:** ReactJS, NextJS, GatsbyJs, Three.js, Node
-- **Tools & Technologies**
+# Main Tech Stack
+
+## Programming Languages
+- JavaScript
+- TypeScript
+- Ruby on Rails
+- Python
+- Java
+
+## Frameworks & Libraries
+- ReactJS
+- NextJS
+- GatsbyJs
+- Three.js
+- Node
+
+## Tools & Technologies
+
 ### Version Control
 - Git
 
