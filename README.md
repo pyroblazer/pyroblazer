@@ -101,6 +101,9 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ---
 
+Some of my published project include, but not limited to:
+React Pokedex: https://react-pokedex-gamma.vercel.app/
+
 Feel free to explore my projects in my [Repositories](https://github.com/pyroblazer?tab=repositories).
 
 Thanks for visiting! ✨ Feel free to reach out and connect.
