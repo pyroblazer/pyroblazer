@@ -80,6 +80,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ### API Development
 - Express (Node.js)
+- NestJS
 - Flask (Python)
 
 ### Cloud Platforms
@@ -91,7 +92,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ## 🌱 Currently Exploring
 
-- Three.js, ReactJS, NextJS, GatsbyJS, Svelte, Bun, Lit, Node, Ruby on Rails, Golang.
+- Three.js, ReactJS, NextJS, GatsbyJS, Svelte, Bun, Lit, NodeJS, NestJS, Ruby on Rails, Golang.
 
 ## 🌐 Connect with Me
 
