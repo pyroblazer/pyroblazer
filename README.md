@@ -26,6 +26,8 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - Ruby on Rails
 - Python
 - Java
+- Kotlin
+- Dart
 
 ## Frameworks & Libraries
 - ReactJS
@@ -35,6 +37,10 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - Node
 
 ## Tools & Technologies
+
+### Platforms
+- Flutter
+- Android
 
 ### Version Control
 - Git
@@ -105,6 +111,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 Some of my published project include, but not limited to:
 
 React Pokedex: https://react-pokedex-gamma.vercel.app/
+Selera: https://selera-restaurant.vercel.app/
 
 Feel free to explore my projects in my [Repositories](https://github.com/pyroblazer?tab=repositories).
 
