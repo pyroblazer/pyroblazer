@@ -110,8 +110,8 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 Some of my published project include, but not limited to:
 
-React Pokedex: https://react-pokedex-gamma.vercel.app/
-Selera: https://selera-restaurant.vercel.app/
+- React Pokedex: https://react-pokedex-gamma.vercel.app/
+- Selera: https://selera-restaurant.vercel.app/
 
 Feel free to explore my projects in my [Repositories](https://github.com/pyroblazer?tab=repositories).
 
