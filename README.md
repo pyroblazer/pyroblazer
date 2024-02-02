@@ -112,7 +112,8 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 - React Pokedex: https://react-pokedex-gamma.vercel.app/
 - Selera: https://selera-restaurant.vercel.app/
-- MeLive (WIP): https://next-livestream-web.vercel.app/
+- MeLive: https://next-livestream-web.vercel.app/
+- FlickFusion: https://next-vod-web.vercel.app/
 
 Feel free to explore my other projects and experiments in my [Repositories](https://github.com/pyroblazer?tab=repositories).
 
