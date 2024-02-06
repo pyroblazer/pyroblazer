@@ -76,7 +76,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
 - Jenkins
-- Travis CI
+- CircleCI
 - GitHub Actions
 
 ### Database
