@@ -115,6 +115,13 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - MeLive: https://next-livestream-web.vercel.app/
 - FlickFusion: https://next-vod-web.vercel.app/
 
+I've also made some games
+- [Unity (C#) - Zombie Wave Game](https://github.com/pyroblazer/IF3210-2020-Unity-13517044)
+- [Flutter (Dart) - Coronavirus Social Distancing Shooter Game](https://github.com/pyroblazer/Flutter-2D-game)
+
+Mobile app
+- [Android (Java) - Soccer Mobile App](https://github.com/pyroblazer/SoccerApp)
+
 Feel free to explore my other projects and experiments in my [Repositories](https://github.com/pyroblazer?tab=repositories).
 
 Thanks for visiting! ✨ Feel free to reach out and connect.
