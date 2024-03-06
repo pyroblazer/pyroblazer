@@ -114,6 +114,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - Selera: https://selera-restaurant.vercel.app/
 - MeLive: https://next-livestream-web.vercel.app/
 - FlickFusion: https://next-vod-web.vercel.app/
+- CelebrateConnect: https://next-events-web.vercel.app/
 
 I've also made some games
 - [Unity (C#) - Zombie Wave Game](https://github.com/pyroblazer/IF3210-2020-Unity-13517044)
