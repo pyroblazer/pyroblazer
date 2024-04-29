@@ -99,6 +99,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 ## 🌱 Currently Exploring
 
 - Three.js, ReactJS, NextJS, GatsbyJS, Svelte, Bun, Lit, NodeJS, NestJS, Ruby on Rails, Golang.
+- https://effect.website/
 
 ## 🌐 Connect with Me
 
