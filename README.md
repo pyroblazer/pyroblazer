@@ -113,7 +113,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 - React Pokedex: https://react-pokedex-gamma.vercel.app/
 - Selera: https://selera-restaurant.vercel.app/
-- MeLive: https://next-livestream-web.vercel.app/
+- MeLive: [https://next-livestream-web.vercel.app/](https://next-livestream-web.vercel.app/sign-in)
 - FlickFusion: https://next-vod-web.vercel.app/
 - CelebrateConnect: https://next-events-web.vercel.app/
 
