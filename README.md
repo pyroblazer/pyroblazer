@@ -6,9 +6,9 @@ Diving deep into the world of Software Engineering, I'm on a mission to craft di
 
 As a seasoned software engineer, I navigate the dynamic tech landscape with finesse, wielding a versatile arsenal that includes React.js, Next.js, JavaScript, Java, Python, Ruby on Rails, ASP.NET and PHP Laravel. Beyond just design, I thrive on turning innovative ideas into reality, pushing the boundaries of what's possible.
 
-With a rich portfolio of diverse projects, I specialize in crafting digital experiences that go beyond the ordinary. My commitment to usability is a pledge to guide users intuitively, creating interfaces that offer a seamless and enjoyable journey through every digital touchpoint.
+With a rich portfolio of diverse projects, with various different technologies, languages, frameworks and platforms, I specialize in crafting digital experiences that go beyond the ordinary. My commitment to usability is a pledge to guide users intuitively, creating features that offer a seamless and enjoyable journey through every digital touchpoint.
 
-Beyond the code, my expertise extends to the clouds—specifically, the Google Cloud Platform (GCP). From deploying and managing applications on Google App Engine to utilizing Cloud Functions for serverless computing and implementing containerized solutions with Kubernetes Engine, I navigate the cloud-native landscape with ease.
+Beyond the code, my expertise extends to the clouds, whether it uses the Google Cloud Platform (GCP) and Amazon Web Services (AWS). From deploying and managing applications on Google App Engine to utilizing Cloud Functions for serverless computing and implementing containerized solutions with Kubernetes Engine, I navigate the cloud-native landscape with ease.
 
 Integrating cloud services like Cloud Storage and Firestore, I enhance data capabilities and contribute to dynamic applications that adapt to varying workloads. It's not just about functionality; it's about creating responsive applications that stand out in today's tech-driven world.
 
