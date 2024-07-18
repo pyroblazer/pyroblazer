@@ -12,7 +12,7 @@ Beyond the code, my expertise extends to the clouds, whether it uses the Google 
 
 Integrating cloud services like Cloud Storage and Firestore, I enhance data capabilities and contribute to dynamic applications that adapt to varying workloads. It's not just about functionality; it's about creating responsive applications that stand out in today's tech-driven world.
 
-On the lookout for a new challenge, I'm eager to join a company that champions innovation and creativity. My goal is to contribute to a team that values forward-thinking approaches, welcomes out-of-the-box ideas, and recognizes the pivotal role of user experience in the tech landscape.
+Always on the lookout for new challenges, I'm eager to join a company that champions innovation and creativity. My goal is to contribute to a team that values forward-thinking approaches, welcomes out-of-the-box ideas, and recognizes the pivotal role of user experience in the tech landscape.
 
 Let's collaborate and bring digital innovation to the forefront—where creativity meets functionality, and user experience takes center stage.
 
