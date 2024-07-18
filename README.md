@@ -135,7 +135,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ---
 
-# Projects and Experiments
+# Projects and Experiments (more coming very soon)
 
 - React Pokedex: https://react-pokedex-gamma.vercel.app/
 - Selera: https://selera-restaurant.vercel.app/
