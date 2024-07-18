@@ -27,8 +27,8 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - Ruby on Rails
 - Python
 - Java
-- ASP.NET
-- PHP Laravel
+- .NET (ASP.NET)
+- PHP (Laravel)
 
 ## Frameworks & Libraries
 
@@ -115,6 +115,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 ### Cloud Platforms
 
 - Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
 
 ### Deployment
 
