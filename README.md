@@ -22,23 +22,25 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 
 ## Programming Languages
 
+- Python
+- Ruby on Rails
 - JavaScript
 - TypeScript
-- Ruby on Rails
-- Python
 - Java
 - .NET (ASP.NET)
 - PHP (Laravel)
 
 ## Frameworks & Libraries
 
+- Django
+- ActiveAdmin
 - ReactJS
 - NextJS
+- Angular
+- Vue
 - GatsbyJs
 - Three.js
 - Node
-- Django
-- ActiveAdmin
 
 ## Tools & Technologies
 
