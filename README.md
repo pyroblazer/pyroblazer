@@ -144,6 +144,7 @@ Let's collaborate and bring digital innovation to the forefront—where creativi
 - MeLive: [https://next-livestream-web.vercel.app/](https://next-livestream-web.vercel.app/sign-in)
 - FlickFusion: https://next-vod-web.vercel.app/
 - CelebrateConnect: https://next-events-web.vercel.app/
+- Financial Management App: http://financial-management-app-beige.vercel.app
 
 I've also made some games
 
