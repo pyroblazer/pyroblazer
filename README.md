@@ -14,7 +14,7 @@ Integrating cloud services like Cloud Storage and Firestore, I enhance data capa
 
 Always on the lookout for new challenges, I'm eager to join a company that champions innovation and creativity. My goal is to contribute to a team that values forward-thinking approaches, welcomes out-of-the-box ideas, and recognizes the pivotal role of user experience in the tech landscape.
 
-Let's collaborate and bring digital innovation to the forefront—where creativity meets functionality, and user experience takes center stage.
+Let's collaborate and bring digital innovation to the forefront, where creativity meets functionality, and user experience takes center stage.
 
 ## 🔧 Technologies & Tools
 
