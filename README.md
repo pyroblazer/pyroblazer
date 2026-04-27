@@ -4,7 +4,7 @@ Welcome to my GitHub abode, where passion meets code and innovation is the drivi
 
 Diving deep into the world of Software Engineering, I'm on a mission to craft digital experiences that are not just functional but unforgettable. My journey is fueled by a commitment to seamlessly blend form and function, ensuring each digital interaction leaves a lasting mark.
 
-As a seasoned software engineer, I navigate the dynamic tech landscape with finesse, wielding a versatile arsenal that includes React.js, Next.js, JavaScript, Java, Python, Ruby on Rails, ASP.NET and PHP Laravel. Beyond just design, I thrive on turning innovative ideas into reality, pushing the boundaries of what's possible.
+As a seasoned software engineer, I navigate the dynamic tech landscape with finesse, wielding a versatile arsenal that includes React.js, Next.js, JavaScript, Java, Python, Ruby on Rails, ASP.NET, Golang, and PHP Laravel. Beyond just design, I thrive on turning innovative ideas into reality, pushing the boundaries of what's possible.
 
 With a rich portfolio of diverse projects, with various different technologies, languages, frameworks and platforms, I specialize in crafting digital experiences that go beyond the ordinary. My commitment to usability is a pledge to guide users intuitively, creating features that offer a seamless and enjoyable journey through every digital touchpoint.
 
@@ -28,6 +28,7 @@ Let's collaborate and bring digital innovation to the forefront, where creativit
 - TypeScript
 - Java
 - .NET (ASP.NET)
+- Golang
 - PHP (Laravel)
 
 ## Frameworks & Libraries
